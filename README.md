@@ -1,5 +1,5 @@
 # Ecommerce-Website
-Welcome to Abdu's Electronic Store! This project showcases a mock-up for an electronic store website with a focus on computer hardware. Below is a comprehensive guide to understand and work with the project.
+Welcome to our Electronic Store! This project showcases a mock-up for an electronic store website with a focus on computer hardware. Below is a comprehensive guide to understand and work with the project.
 
 Table of Contents
 
