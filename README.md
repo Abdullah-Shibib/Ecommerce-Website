@@ -24,7 +24,7 @@ This project showcases a simulated online storefront specializing in computer ha
 - CSS
 - JavaScript
 
-**## Team Members
+## Team Members
 - **Abdullah Shibib (FullStack Developer)** - 📧 [abdullahshibib@yahoo.com](mailto:abdullahshibib@yahoo.com)
 - **Rami El-Hajjar (Front-End Developer)** - 📧 [ramihajjar26@gmail.com](mailto:ramihajjar26@gmail.com)
 - **Omar Younes (Back-End Developer)** - 📧 [oyounes541@gmail.com](mailto:oyounes541@gmail.com)
