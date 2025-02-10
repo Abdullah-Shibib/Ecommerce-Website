@@ -9,8 +9,8 @@ Table of Contents
 [Project Structure](#project-structure)
 
 Features
-Navigation Bar: Easily browse through various categories of computer hardware.
-Product Slider: A dynamic slider that showcases featured products.
+* Navigation Bar: Easily browse through various categories of computer hardware.
+* Product Slider: A dynamic slider that showcases featured products.
 Product Details: Access detailed views of products including images, descriptions, and purchase options.
 Features Section: Discover store highlights such as free shipping, easy returns, and available gift cards.
 Gallery: A visual showcase of products and customer setups.
